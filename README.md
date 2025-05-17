@@ -16,7 +16,7 @@ AFTER INSTALL:
 - Default admin username is admin/admin123 (unless changed during install)
 
 - For more information or to see our forms in action visit our website at
-- https://www.formbuilder.com
+- https://www.mspformbuilder.com
 - 
 
 Enjoy!
