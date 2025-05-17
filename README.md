@@ -13,6 +13,10 @@ AFTER INSTALL:
 - Admin login: http://localhost/admin/login.php
 - Create forms, view submissions, manage settings.
 
-- Default admin username is admin/admin123 (unless changed during install) 
+- Default admin username is admin/admin123 (unless changed during install)
+
+- For more information or to see our forms in action visit our website at
+- https://www.formbuilder.com
+- 
 
 Enjoy!
